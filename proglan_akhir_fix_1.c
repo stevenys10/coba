@@ -59,7 +59,7 @@ int main(){
 	printf ("\n\n\nSilahkan tekan tombol apapun untuk melanjutkan...");
 	getch ();
 	system("cls");
-	
+	printf("test");
     menu:
         display_menu ();
         int pilihan;
